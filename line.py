@@ -1,4 +1,5 @@
 def line():
+    
     A = float(input("Ingrese el coeficiente A:"))
     B = float (input ("Ingrese el coeficiente B:"))
     X1 = float (input ("Ingrese el coeficiente X1:"))
@@ -25,4 +26,4 @@ def line():
 
     print ()
 
-    print (f"La distancia entre ellos es: {Distancia}")llos es: {distancia}")
+    print (f"La distancia entre ellos es: {Distancia}")
